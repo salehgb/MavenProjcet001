@@ -24,6 +24,12 @@
     <version>8.0</version>
 </dependency>
   
+  <!-- https://mvnrepository.com/artifact/org.primefaces.extensions/primefaces-extensions -->
+<dependency>
+    <groupId>org.primefaces.extensions</groupId>
+    <artifactId>primefaces-extensions</artifactId>
+    <version>8.0.4</version>
+</dependency>
   
   
   
